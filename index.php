@@ -12,7 +12,7 @@
     <h1>Consulta PHP con API Fetch</h1>
     
     <form id="formulario">
-        <input type="text" name="nombre" id="nombre" placeholder="Ingresa nombre">
+        <input type="text" name="nombre" id="nombre" placeholder="Ingresar nombre">
         <button id="buttonEnviar">Consultar</button>
     </form>
 
